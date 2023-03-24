@@ -37,15 +37,15 @@ export const info = {
         },
         {
             emoji: '🌎',
-            text: 'based in the US'
+            text: 'based in Pakistan'
         },
         {
             emoji: "💼",
-            text: "Systems Engineer at Google"
+            text: "Full Stack Dev at Octaloop"
         },
         {
             emoji: "📧",
-            text: "johnsmith@gmail.com"
+            text: "arslan.mumtaz04@gmail.com"
         }
     ],
     socials: [
@@ -55,12 +55,12 @@ export const info = {
             label: 'facebook'
         },
         {
-            link: "https://instagram.com",
+            link: "https://instagram.com/arsal_me",
             icon: 'fa fa-instagram',
             label: 'instagram'
         },
         {
-            link: "https://github.com",
+            link: "https://github.com/arslan-mumtaz",
             icon: "fa fa-github",
             label: 'github'
         },
@@ -70,7 +70,7 @@ export const info = {
             label: 'linkedin'
         },
         {
-            link: "https://twitter.com",
+            link: "https://twitter.com/akaarsal",
             icon: "fa fa-twitter",
             label: 'twitter'
         }
@@ -78,7 +78,7 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I'm John. I'm a systems engineer for Google. I studied CompSci at Harvard, I enjoy long walks on the beach, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+    bio: "Hello! I'm Arslan. I'm a systems engineer for Google. I studied CompSci at Harvard, I enjoy long walks on the beach, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
     skills:
         {
             proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma'],
@@ -108,13 +108,13 @@ export const info = {
     portfolio: [ // This is where your portfolio projects will be detailed
         {
             title: "Project 1",
-            live: "https://paytonpierce.dev", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+            live: "#", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
             source: "https://github.com/paytonjewell", // this should be a link to the **repository** of the project, where the code is hosted.
             image: mock1
         },
         {
             title: "Project 2",
-            live: "https://paytonpierce.dev",
+            live: "#",
             source: "https://github.com/paytonjewell",
             image: mock2
         },
@@ -126,13 +126,13 @@ export const info = {
         },
         {
             title: "Project 4",
-            live: "https://paytonpierce.dev",
+            live: "#",
             source: "https://github.com/paytonjewell",
             image: mock4
         },
         {
             title: "Project 5",
-            live: "https://paytonpierce.dev",
+            live: "#",
             source: "https://github.com/paytonjewell",
             image: mock5
         }
